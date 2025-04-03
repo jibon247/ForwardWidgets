@@ -3,7 +3,7 @@ const path = require('path');
 
 // 配置目录路径
 const WIDGETS_DIR = './widgets'; // 调整为你的小部件目录路径
-const OUTPUT_FILE = './index';
+const OUTPUT_FILE = './pack1r.fwd';
 
 // 创建临时目录来存放预处理的文件
 const TEMP_DIR = path.join(__dirname, 'temp_widgets');
@@ -93,11 +93,17 @@ async function main() {
     
     // 处理每个文件并提取元数据
     const widgetIndex = files.map(extractWidgetMetadata).filter(Boolean);
+    const metadata = {
+      title: 'pack1r\'s Widgets',
+      description: 'A collection of widgets created by pack1r',
+      icon: 'https://github.com/pack1r/ForwardWidgets/raw/main/icon.png',
+      widgets: widgetIndex
+    }
     
     console.log(`成功从 ${widgetIndex.length} 个小部件中提取元数据`);
     
     // 写入索引文件
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(widgetIndex, null, 2));
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(metadata, null, 2));
     
     console.log(`小部件索引已写入 ${OUTPUT_FILE}`);
   } finally {
